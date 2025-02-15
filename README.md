@@ -19,15 +19,6 @@ This guide will help you add another robot to your Home Assistant (HA) server.
 
 
 
-
-
-
-
-
-
-
-
-
 ## **1. Install WinSCP**
 1. Download and install [WinSCP](https://winscp.net/).
 2. Follow the setup instructions.
@@ -98,7 +89,7 @@ Then replace `cecotec.xxxxx.3irobotix.net` with the IP address of your HA :
    ```
    Note: WinSCP will become unresponsive until the Conga robot finishes rebooting and comes back online.
 
-## 6. Install and Configure the Congatudo Beta Addon in Home Assistant
+## **6. Install and Configure the Congatudo Beta Addon in Home Assistant**
 
 1. Open **Home Assistant** and navigate to:
    - **Settings** → **Devices & Services** → **Add-ons** → **Add-on Store**.
