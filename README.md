@@ -17,27 +17,6 @@ This guide will help you add another robot to your Home Assistant (HA) server.
 6. [Installing and Configuring Congatudo Beta Addon in HA](#6-install-and-configure-the-congatudo-beta-addon-in-home-assistant)
 7. [Credits](https://github.com/Nismonx/conga-multiple-robots/edit/main/README.md#credits-1)
 
-## 1. Install WinSCP
-...
-
-## 2. Connecting to your Conga
-...
-
-## 3. Create a Folder for Safe Keeping
-...
-
-## 4. Edit the Hosts File to Default
-...
-
-## 5. Navigate and Edit sysConfig.ini
-...
-
-## 6. Install and Configure the Congatudo Beta Addon in Home Assistant
-...
-
-## Credits
-...
-
 
 
 
