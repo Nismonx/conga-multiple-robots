@@ -1,4 +1,4 @@
-# Adding a Second Conga to HA addon
+# Adding a Second Conga to HA using the Beta addon
 
 This guide will help you add another robot to your Home Assistant (HA) server.
 
