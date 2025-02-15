@@ -38,7 +38,7 @@ This guide will help you add another robot to your Home Assistant (HA) server.
 2. Create a new folder called `Conga` under your Documents folder.
 3. Open the `Conga/` folder and drag and drop the `/etc/` folder into it to create a backup.
 
-### **Optional Backup Method**
+### Optional Backup Method
 Alternatively, open the terminal (Shift+Ctrl+T) and type:
 ```bash
 tar -cvpzf /tmp/etc.tar.gz /etc/
