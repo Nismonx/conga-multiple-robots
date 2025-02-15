@@ -45,7 +45,7 @@ tar -cvpzf /tmp/etc.tar.gz /etc/
 ```
 And don't forget to fetch the `etc.tar.gz` into somewhere safe.
 
-## **4. Edit the `hosts` File to Defaults**
+## **4. Edit the `hosts` File to Default**
 If you have already redirected traffic from your Conga to your HA server, you must reset it:
 
 1. Navigate to `/etc/hosts`.
