@@ -15,7 +15,7 @@ This guide will help you add another robot to your Home Assistant (HA) server.
 4. [Editing Hosts File to Default](#4-edit-the-hosts-file-to-default)
 5. [Navigate and Edit sysConfig.ini](#5-navigate-and-edit-sysconfigini)
 6. [Installing and Configuring Congatudo Beta Addon in HA](#6-install-and-configure-the-congatudo-beta-addon-in-home-assistant)
-7. [Credits](https://github.com/Nismonx/conga-multiple-robots/edit/main/README.md#credits-1)
+7. [Credits](#credits)
 
 
 
